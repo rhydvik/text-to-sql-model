@@ -1,0 +1,59 @@
+Data set creation flow
+
+1. User launches the application
+2. User enters database credentials 
+3. Applications scans the schema of the database - no of tables, columns, database name,
+4. Use the schema to generate the basic questions.
+5. Use google pegasus to generate similar question, and keep the same query
+[
+    "What are the total cards present in cards table?",
+    "SELECT count(*) FROM cards"
+],
+[
+    "Tell me all the cards present in cards table",
+    "SELECT count(*) FROM cards" 
+]
+
+
+Table - 30*10=300
+total question: 300 *10 = 3000
+
+6. Use generate datasets to train the model again
+
+6.1 store all the questions and query in database, run those queries agains the databse to check if query is valid or Not
+
+7. Now it will be more complex
+
+
+8. CardApproveMode: 
+export enum CardApproveMode {
+  APPROVED_BY_ADMIN = 'APPROVED_BY_ADMIN',
+  APPROVED_BY_UPI = 'UPI_RESPONSE',
+  APPROVED_BY_SMS = 'APPROVED_BY_SMS',
+  APPROVED_BY_BUREAU = 'BUREAU',
+  APPROVED_BY_BUREAU_PENNY_DROP = 'BUREAU_PENNY_DROP',
+  APPROVED_BY_BUREAU_ACCOUNT_CONFIRMATION = 'BUREAU_ACCOUNT_CONFIRMATION',
+  INCOMPLETE_USER_DETAILS = 'INCOMPLETE_USER_DETAILS',
+  PENNY_CONFIRMATION_FAILED = 'PENNY_CONFIRMATION_FAILED',
+  BUREAU_REVIEW_FINISHED_REJECTED = 'BUREAU_REVIEW_FINISHED_REJECTED',
+  BUREAU_REPORT_NOT_FOUND_REJECTED = 'REPORT_NOT_FOUND_REJECTED',
+  REJECTED_BY_FALSE_TRANSACTION_CROSS_CHECK = 'REJECTED_BY_FALSE_TRANSACTION_CROSS_CHECK',
+  ACCOUNT_NUMBER_MATCH = 'ACCOUNT_NUMBER_MATCH',
+  ACCOUNT_NUMBER_MISMATCH = 'ACCOUNT_NUMBER_MISMATCH',
+}
+
+9 Allow companies to connect their lower env database
+
+10. Again use the dummy data to generate more questions with data
+
+11. again train the model with new data set
+
+12. Not it is ready to use
+
+13. All queries asked in the application need to store the database
+
+14. evaluation -> accuracy 
+
+15. train the model 
+
+16. keep repeating the step

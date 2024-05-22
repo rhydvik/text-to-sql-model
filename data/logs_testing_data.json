@@ -1,0 +1,24 @@
+{
+    "questions": [
+        {
+            "question": "What are the id in logs?",
+            "schema": "\"logs\" \"id\" varchar, \"action\" varchar, \"status\" varchar, \"cardId\" varchar",
+            "sql_query": "SELECT id FROM logs;"
+        },
+        {
+            "question": "What are the action in logs?",
+            "schema": "\"logs\" \"id\" varchar, \"action\" varchar, \"status\" varchar, \"cardId\" varchar",
+            "sql_query": "SELECT action FROM logs;"
+        },
+        {
+            "question": "List all status from logs where status = 'IN_REVIEW'.",
+            "schema": "\"logs\" \"id\" varchar, \"action\" varchar, \"status\" varchar, \"cardId\" varchar",
+            "sql_query": "SELECT status FROM logs WHERE status = 'IN_REVIEW';"
+        },
+        {
+            "question": "What are the cardId in logs?",
+            "schema": "\"logs\" \"id\" varchar, \"action\" varchar, \"status\" varchar, \"cardId\" varchar",
+            "sql_query": "SELECT cardId FROM logs;"
+        }
+    ]
+}

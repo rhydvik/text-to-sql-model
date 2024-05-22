@@ -1,0 +1,144 @@
+{
+    "questions": [
+        {
+            "question": "What are the id in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT id FROM cards;"
+        },
+        {
+            "question": "What are the name in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT name FROM cards;"
+        },
+        {
+            "question": "What are the userId in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT userId FROM cards;"
+        },
+        {
+            "question": "What are the issuer in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT issuer FROM cards;"
+        },
+        {
+            "question": "What are the cardNumber in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT cardNumber FROM cards;"
+        },
+        {
+            "question": "What are the type in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT type FROM cards;"
+        },
+        {
+            "question": "What are the binCheckerResponse in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT binCheckerResponse FROM cards;"
+        },
+        {
+            "question": "What are the pgResponse in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT pgResponse FROM cards;"
+        },
+        {
+            "question": "What are the cardStatus in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT cardStatus FROM cards;"
+        },
+        {
+            "question": "What are the whitelistingStatus in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT whitelistingStatus FROM cards;"
+        },
+        {
+            "question": "What are the pennyAmount in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT pennyAmount FROM cards;"
+        },
+        {
+            "question": "What are the pennyAmountUpdated in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT pennyAmountUpdated FROM cards;"
+        },
+        {
+            "question": "What are the accountNumber in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT accountNumber FROM cards;"
+        },
+        {
+            "question": "What are the upiId in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT upiId FROM cards;"
+        },
+        {
+            "question": "List all statusChangeReason from cards where cardStatus = 'in_progress'.",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT statusChangeReason FROM cards WHERE cardStatus = 'in_progress';"
+        },
+        {
+            "question": "What are the mobile in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT mobile FROM cards;"
+        },
+        {
+            "question": "What are the isHidden in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT isHidden FROM cards;"
+        },
+        {
+            "question": "What are the isDisabled in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT isDisabled FROM cards;"
+        },
+        {
+            "question": "What are the tokenised in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT tokenised FROM cards;"
+        },
+        {
+            "question": "What are the transaction in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT transaction FROM cards;"
+        },
+        {
+            "question": "What are the transactionId in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT transactionId FROM cards;"
+        },
+        {
+            "question": "What are the approvedMode in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT approvedMode FROM cards;"
+        },
+        {
+            "question": "What are the createdAt in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT createdAt FROM cards;"
+        },
+        {
+            "question": "What are the tokenRemoved in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT tokenRemoved FROM cards;"
+        },
+        {
+            "question": "What are the attempts in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT attempts FROM cards;"
+        },
+        {
+            "question": "What are the updatedAt in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT updatedAt FROM cards;"
+        },
+        {
+            "question": "What are the approvedByAdmin in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT approvedByAdmin FROM cards;"
+        },
+        {
+            "question": "What are the accountNumberUpdated in cards?",
+            "schema": "\"id\" varchar, \"name\" varchar, \"userId\" varchar, \"issuer\" varchar, \"cardNumber\" varchar, \"type\" varchar, \"binCheckerResponse\" json, \"pgResponse\" json, \"cardStatus\" varchar, \"whitelistingStatus\" varchar, \"pennyAmount\" float, \"pennyAmountUpdated\" float, \"accountNumber\" varchar, \"upiId\" varchar, \"statusChangeReason\" varchar, \"mobile\" varchar, \"isHidden\" tinyint, \"isDisabled\" tinyint, \"tokenised\" tinyint, \"transaction\" tinyint, \"transactionId\" varchar, \"approvedMode\" varchar, \"createdAt\" timestamp, \"tokenRemoved\" tinyint, \"attempts\" varchar, \"updatedAt\" timestamp, \"approvedByAdmin\" tinyint, \"accountNumberUpdated\" varchar",
+            "sql_query": "SELECT accountNumberUpdated FROM cards;"
+        }
+    ]
+}

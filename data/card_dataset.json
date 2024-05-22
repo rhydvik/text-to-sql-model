@@ -1,0 +1,12 @@
+[
+    {
+        "question": "Get me all disabled cards",
+        "db_id": "cards_database",
+        "query": "SELECT COUNT(*) FROM cards WHERE isDisabled = true"
+    },
+    {
+        "question": "List the name and issuer of all Visa cards.",
+        "db_id": "cards_database",
+        "query": "SELECT name, issuer FROM cards WHERE issuer = 'Visa'"
+    }
+]

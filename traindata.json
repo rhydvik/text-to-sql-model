@@ -1,0 +1,2164 @@
+{
+    "questions": [
+        [
+            "What are the id values in the cards table?",
+            "SELECT id FROM cards;"
+        ],
+        [
+            "What is the id value in the cards table?",
+            "SELECT id FROM cards;"
+        ],
+        [
+            "The table below shows the id values in the cards table.",
+            "SELECT id FROM cards;"
+        ],
+        [
+            "The table below shows all the id values in the cards table.",
+            "SELECT id FROM cards;"
+        ],
+        [
+            "The table below lists the id values in the cards table.",
+            "SELECT id FROM cards;"
+        ],
+        [
+            "The table below lists all the id values in the cards table.",
+            "SELECT id FROM cards;"
+        ],
+        [
+            "Hi, I have a question about the id values in the cards table.",
+            "SELECT id FROM cards;"
+        ],
+        [
+            "I have a question about the id values in the cards table.",
+            "SELECT id FROM cards;"
+        ],
+        [
+            "The table above shows the id values in the cards table.",
+            "SELECT id FROM cards;"
+        ],
+        [
+            "The table below shows the id values for the cards in the table.",
+            "SELECT id FROM cards;"
+        ],
+        [
+            "The table below shows the id values for all the cards in the table.",
+            "SELECT id FROM cards;"
+        ],
+        [
+            "What is the id value in the table?",
+            "SELECT id FROM cards;"
+        ],
+        [
+            "The table below shows the id values for each card in the table.",
+            "SELECT id FROM cards;"
+        ],
+        [
+            "Hi, I have a question about the id values in the cards table?",
+            "SELECT id FROM cards;"
+        ],
+        [
+            "The table below shows the id values in the cards table for the current year.",
+            "SELECT id FROM cards;"
+        ],
+        [
+            "The table below shows the id values in the cards table for all the players on the team.",
+            "SELECT id FROM cards;"
+        ],
+        [
+            "The table below shows the id values in the cards table for all the players in the Premier League.",
+            "SELECT id FROM cards;"
+        ],
+        [
+            "The table below shows the id values in the cards table for all the players on the squad.",
+            "SELECT id FROM cards;"
+        ],
+        [
+            "The table below shows the id values in the cards table for all the players on the deck.",
+            "SELECT id FROM cards;"
+        ],
+        [
+            "The table below shows the id values in the cards table for all the players on the board.",
+            "SELECT id FROM cards;"
+        ],
+        [
+            "What are the name values in the cards table?",
+            "SELECT name FROM cards;"
+        ],
+        [
+            "paraphrase: What are the name values in the cards table?",
+            "SELECT name FROM cards;"
+        ],
+        [
+            "All images are copyrighted.",
+            "SELECT name FROM cards;"
+        ],
+        [
+            "paraphrase: What is the name value in the cards table?",
+            "SELECT name FROM cards;"
+        ],
+        [
+            "What are the names of the cards in the table?",
+            "SELECT name FROM cards;"
+        ],
+        [
+            "What is the name value of the cards in the table?",
+            "SELECT name FROM cards;"
+        ],
+        [
+            "What are the values of the names in the cards table?",
+            "SELECT name FROM cards;"
+        ],
+        [
+            "What is the name value of a card?",
+            "SELECT name FROM cards;"
+        ],
+        [
+            "What are the names of the players on the board?",
+            "SELECT name FROM cards;"
+        ],
+        [
+            "paraphrase: What is the name value of the cards in the table?",
+            "SELECT name FROM cards;"
+        ],
+        [
+            "What is the name value of the card?",
+            "SELECT name FROM cards;"
+        ],
+        [
+            "What are the name values in the table?",
+            "SELECT name FROM cards;"
+        ],
+        [
+            "The table below shows the values of all the names in the cards table.",
+            "SELECT name FROM cards;"
+        ],
+        [
+            "What are the name values for the cards table?",
+            "SELECT name FROM cards;"
+        ],
+        [
+            "What are the names of the players in the table?",
+            "SELECT name FROM cards;"
+        ],
+        [
+            "The table below shows the name values in the cards table.",
+            "SELECT name FROM cards;"
+        ],
+        [
+            "What are the names of the players on the deck?",
+            "SELECT name FROM cards;"
+        ],
+        [
+            "paraphrase: What is the name value for the cards in the table?",
+            "SELECT name FROM cards;"
+        ],
+        [
+            "What are the names of the players on the table?",
+            "SELECT name FROM cards;"
+        ],
+        [
+            "paraphrase: What is the name value for the cards table?",
+            "SELECT name FROM cards;"
+        ],
+        [
+            "paraphrase: What is the userId value in the cards table?",
+            "SELECT userId FROM cards;"
+        ],
+        [
+            "What are the values in the cards table?",
+            "SELECT userId FROM cards;"
+        ],
+        [
+            "What is the value of the userId in the cards table?",
+            "SELECT userId FROM cards;"
+        ],
+        [
+            "paraphrase: What is the userId value for the cards table?",
+            "SELECT userId FROM cards;"
+        ],
+        [
+            "Is there a way to get all the userId values in the cards table?",
+            "SELECT userId FROM cards;"
+        ],
+        [
+            "Hi, I have a question about the cards table.",
+            "SELECT userId FROM cards;"
+        ],
+        [
+            "paraphrase: What is the userId value in the Cards table?",
+            "SELECT userId FROM cards;"
+        ],
+        [
+            "Can you help?",
+            "SELECT userId FROM cards;"
+        ],
+        [
+            "Is there a way to retrieve all the userId values in the cards table?",
+            "SELECT userId FROM cards;"
+        ],
+        [
+            "The table below shows the values of the userIds in the cards table.",
+            "SELECT userId FROM cards;"
+        ],
+        [
+            "The table below shows all the values in the cards table.",
+            "SELECT userId FROM cards;"
+        ],
+        [
+            "paraphrase: What is the userId value for the card table?",
+            "SELECT userId FROM cards;"
+        ],
+        [
+            "The table below shows all the values for the userIds in the cards table.",
+            "SELECT userId FROM cards;"
+        ],
+        [
+            "What are the values in the table?",
+            "SELECT userId FROM cards;"
+        ],
+        [
+            "Is there a way to retrieve all the userId values from the cards table?",
+            "SELECT userId FROM cards;"
+        ],
+        [
+            "Is there a way to get all the userId values from the cards table?",
+            "SELECT userId FROM cards;"
+        ],
+        [
+            "Hi, I have a question about the userId table in the cards table.",
+            "SELECT userId FROM cards;"
+        ],
+        [
+            "Hi all, I have a question about the cards table.",
+            "SELECT userId FROM cards;"
+        ],
+        [
+            "What is the value of the userId in the table?",
+            "SELECT userId FROM cards;"
+        ],
+        [
+            "Is there a way to get all the userIds in the cards table?",
+            "SELECT userId FROM cards;"
+        ],
+        [
+            "What are the issuer values in the cards table?",
+            "SELECT issuer FROM cards;"
+        ],
+        [
+            "What is the total value of all the cards in the table?",
+            "SELECT issuer FROM cards;"
+        ],
+        [
+            "What is the total value of all the cards issued by the issuers in the table?",
+            "SELECT issuer FROM cards;"
+        ],
+        [
+            "What is the total value of the cards issued by the issuers?",
+            "SELECT issuer FROM cards;"
+        ],
+        [
+            "What is the total value of all the cards issued by the issuers?",
+            "SELECT issuer FROM cards;"
+        ],
+        [
+            "What is the total value of all the cards issued by the issuer?",
+            "SELECT issuer FROM cards;"
+        ],
+        [
+            "The European Central Bank (ECB) has set the exchange rate for the euro against the dollar at 1.16 to the euro and 1.16 to the pound.",
+            "SELECT issuer FROM cards;"
+        ],
+        [
+            "The European Central Bank (ECB) has set the exchange rate for the euro against the dollar at 1.15 to the euro and 1.15 to the pound.",
+            "SELECT issuer FROM cards;"
+        ],
+        [
+            "The European Central Bank (ECB) has set the exchange rate for the euro against the dollar at 1.15 to the euro and 1.10 to the pound.",
+            "SELECT issuer FROM cards;"
+        ],
+        [
+            "The European Central Bank (ECB) has set the exchange rate for the euro against the dollar at 1.15 to the euro and 1.16 to the pound.",
+            "SELECT issuer FROM cards;"
+        ],
+        [
+            "The European Central Bank (ECB) has set the exchange rate for the euro against the dollar at 1.16 to the euro and 1.15 to the pound.",
+            "SELECT issuer FROM cards;"
+        ],
+        [
+            "The European Central Bank (ECB) has set the exchange rate for the euro against the dollar at 1.15 to the euro and 1.13 to the pound.",
+            "SELECT issuer FROM cards;"
+        ],
+        [
+            "The European Central Bank (ECB) has set the exchange rate for the euro against the dollar at 1.16 to the euro and 1.13 to the pound.",
+            "SELECT issuer FROM cards;"
+        ],
+        [
+            "The European Central Bank (ECB) has set the exchange rate for the euro against the dollar at 1.15 to the euro and 1.12 to the pound.",
+            "SELECT issuer FROM cards;"
+        ],
+        [
+            "The European Central Bank (ECB) has set the exchange rate for the euro against the dollar at 1.16 to the euro and 1.16 to the dollar.",
+            "SELECT issuer FROM cards;"
+        ],
+        [
+            "The European Central Bank (ECB) has set the exchange rate for the euro against the dollar at 1.15 to the euro and 1.07 to the pound.",
+            "SELECT issuer FROM cards;"
+        ],
+        [
+            "The European Central Bank (ECB) has set the exchange rate for the euro against the dollar at 1.16 to the euro and 1.12 to the pound.",
+            "SELECT issuer FROM cards;"
+        ],
+        [
+            "The European Central Bank (ECB) has set the exchange rate for the euro against the dollar at 1.16 to the euro and 1.32 to the pound.",
+            "SELECT issuer FROM cards;"
+        ],
+        [
+            "The European Central Bank (ECB) has set the exchange rate for the euro against the dollar at 1.15 to the euro and 1.16 to the dollar.",
+            "SELECT issuer FROM cards;"
+        ],
+        [
+            "The European Central Bank (ECB) has set the exchange rate for the euro against the dollar at 1.16 to the dollar, down from 1.16 on Friday.",
+            "SELECT issuer FROM cards;"
+        ],
+        [
+            "paraphrase: What are the cardNumber values in the cards table?",
+            "SELECT cardNumber FROM cards;"
+        ],
+        [
+            "paraphrase: What is the cardNumber value in the cards table?",
+            "SELECT cardNumber FROM cards;"
+        ],
+        [
+            "The table below shows the cardNumber values in the cards table.",
+            "SELECT cardNumber FROM cards;"
+        ],
+        [
+            "The table below lists all the cardNumber values in the cards table.",
+            "SELECT cardNumber FROM cards;"
+        ],
+        [
+            "What are the values in the cards table?",
+            "SELECT cardNumber FROM cards;"
+        ],
+        [
+            "What is the cardNumber value in the cards table?",
+            "SELECT cardNumber FROM cards;"
+        ],
+        [
+            "The table below shows the values of all the cardNumber values in the cards table.",
+            "SELECT cardNumber FROM cards;"
+        ],
+        [
+            "The table below lists the cardNumber values in the cards table.",
+            "SELECT cardNumber FROM cards;"
+        ],
+        [
+            "The table below shows the values for all the cardNumber values in the cards table.",
+            "SELECT cardNumber FROM cards;"
+        ],
+        [
+            "The table below shows the values of all the cards in the table.",
+            "SELECT cardNumber FROM cards;"
+        ],
+        [
+            "What are the values in the table?",
+            "SELECT cardNumber FROM cards;"
+        ],
+        [
+            "The table below shows the cardNumber values for all the cards in the table.",
+            "SELECT cardNumber FROM cards;"
+        ],
+        [
+            "The table below lists all the values for the cards in the table.",
+            "SELECT cardNumber FROM cards;"
+        ],
+        [
+            "paraphrase: What is the cardNumber value?",
+            "SELECT cardNumber FROM cards;"
+        ],
+        [
+            "What is the cardNumber value in the table?",
+            "SELECT cardNumber FROM cards;"
+        ],
+        [
+            "The table below lists all the values in the cards table.",
+            "SELECT cardNumber FROM cards;"
+        ],
+        [
+            "The table below shows all the values for the cards in the table.",
+            "SELECT cardNumber FROM cards;"
+        ],
+        [
+            "The table below shows the values for all the cards in the table.",
+            "SELECT cardNumber FROM cards;"
+        ],
+        [
+            "The table below shows the values of the cards in the table.",
+            "SELECT cardNumber FROM cards;"
+        ],
+        [
+            "paraphrase: What is the cardNumber value in the table?",
+            "SELECT cardNumber FROM cards;"
+        ],
+        [
+            "paraphrase: What are the type values in the cards table?",
+            "SELECT type FROM cards;"
+        ],
+        [
+            "paraphrase: What is the type value in the cards table?",
+            "SELECT type FROM cards;"
+        ],
+        [
+            "The table below shows the type values in the cards table.",
+            "SELECT type FROM cards;"
+        ],
+        [
+            "What are the types of values in the cards table?",
+            "SELECT type FROM cards;"
+        ],
+        [
+            "What are the values in the cards table?",
+            "SELECT type FROM cards;"
+        ],
+        [
+            "Hi, I have a question about the type values in the cards table.",
+            "SELECT type FROM cards;"
+        ],
+        [
+            "What are the types of cards in the table?",
+            "SELECT type FROM cards;"
+        ],
+        [
+            "What is the table of values in the cards table?",
+            "SELECT type FROM cards;"
+        ],
+        [
+            "What are the values in the table?",
+            "SELECT type FROM cards;"
+        ],
+        [
+            "Hi, I have a question about the table of values in the cards table.",
+            "SELECT type FROM cards;"
+        ],
+        [
+            "The table below lists all the values in the cards table.",
+            "SELECT type FROM cards;"
+        ],
+        [
+            "Hi, I have a question about the cards table.",
+            "SELECT type FROM cards;"
+        ],
+        [
+            "paraphrase: What are the type values in the Cards table?",
+            "SELECT type FROM cards;"
+        ],
+        [
+            "The table below shows all the values in the cards table.",
+            "SELECT type FROM cards;"
+        ],
+        [
+            "The table below shows the values of all the types of cards in the table.",
+            "SELECT type FROM cards;"
+        ],
+        [
+            "The table below lists all the types of cards in the table.",
+            "SELECT type FROM cards;"
+        ],
+        [
+            "Hi, I have a question about the type values in the cards table?",
+            "SELECT type FROM cards;"
+        ],
+        [
+            "Hi, I have a question about the type values in the cards table...",
+            "SELECT type FROM cards;"
+        ],
+        [
+            "The table below shows the type values in the cards table, as well as the total number of cards in the table.",
+            "SELECT type FROM cards;"
+        ],
+        [
+            "The table below shows the type values in the cards table, as well as the type of card used.",
+            "SELECT type FROM cards;"
+        ],
+        [
+            "What are the cardStatus values in the cards table?",
+            "SELECT cardStatus FROM cards;"
+        ],
+        [
+            "paraphrase: What is the cardStatus value in the cards table?",
+            "SELECT cardStatus FROM cards;"
+        ],
+        [
+            "The table below shows the cardStatus values for all the cards in the table.",
+            "SELECT cardStatus FROM cards;"
+        ],
+        [
+            "The table below shows the cardStatus values for the cards in the table.",
+            "SELECT cardStatus FROM cards;"
+        ],
+        [
+            "The table below lists all the cardStatus values in the cards table.",
+            "SELECT cardStatus FROM cards;"
+        ],
+        [
+            "The table below shows the cardStatus values for each card in the table.",
+            "SELECT cardStatus FROM cards;"
+        ],
+        [
+            "The table below lists the cardStatus values for all the cards in the table.",
+            "SELECT cardStatus FROM cards;"
+        ],
+        [
+            "The table below lists the cardStatus values for the cards in the table.",
+            "SELECT cardStatus FROM cards;"
+        ],
+        [
+            "The table below shows the cardStatus values in the cards table.",
+            "SELECT cardStatus FROM cards;"
+        ],
+        [
+            "The table below lists the cardStatus values in the cards table.",
+            "SELECT cardStatus FROM cards;"
+        ],
+        [
+            "What is the cardStatus value of a card?",
+            "SELECT cardStatus FROM cards;"
+        ],
+        [
+            "What are the cardStatus values in the table?",
+            "SELECT cardStatus FROM cards;"
+        ],
+        [
+            "The table below shows all the cardStatus values in the cards table.",
+            "SELECT cardStatus FROM cards;"
+        ],
+        [
+            "The table below shows the cardStatus values for each card in the deck.",
+            "SELECT cardStatus FROM cards;"
+        ],
+        [
+            "The table below shows the cardStatus values for all cards in the table.",
+            "SELECT cardStatus FROM cards;"
+        ],
+        [
+            "The table below lists all the cardStatus values for the cards in the table.",
+            "SELECT cardStatus FROM cards;"
+        ],
+        [
+            "The table below shows all the cardStatus values for the cards in the table.",
+            "SELECT cardStatus FROM cards;"
+        ],
+        [
+            "The table below shows the cardStatus values for all the cards in the deck.",
+            "SELECT cardStatus FROM cards;"
+        ],
+        [
+            "The table below shows the cardStatus values for cards in the table.",
+            "SELECT cardStatus FROM cards;"
+        ],
+        [
+            "What is the cardStatus table?",
+            "SELECT cardStatus FROM cards;"
+        ],
+        [
+            "The whitelistingStatus savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay",
+            "SELECT whitelistingStatus FROM cards;"
+        ],
+        [
+            "What is the whitelistingStatusing value in the cards table?",
+            "SELECT whitelistingStatus FROM cards;"
+        ],
+        [
+            "paraphrase: What is the whitelistingStatusing value in the cards table?",
+            "SELECT whitelistingStatus FROM cards;"
+        ],
+        [
+            "The whitelistingStatus savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay",
+            "SELECT whitelistingStatus FROM cards;"
+        ],
+        [
+            "The whitelistingStatus savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay  savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay",
+            "SELECT whitelistingStatus FROM cards;"
+        ],
+        [
+            "The whitelistingStatus savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay  savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay",
+            "SELECT whitelistingStatus FROM cards;"
+        ],
+        [
+            "The whitelistingStatus savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay",
+            "SELECT whitelistingStatus FROM cards;"
+        ],
+        [
+            "The whitelistingStatus savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay  savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay",
+            "SELECT whitelistingStatus FROM cards;"
+        ],
+        [
+            "The whitelistingStatus savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay  savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay",
+            "SELECT whitelistingStatus FROM cards;"
+        ],
+        [
+            "The whitelistingStatus savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay  savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay",
+            "SELECT whitelistingStatus FROM cards;"
+        ],
+        [
+            "The whitelistingStatus savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay",
+            "SELECT whitelistingStatus FROM cards;"
+        ],
+        [
+            "The whitelistingStatus savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay  savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay",
+            "SELECT whitelistingStatus FROM cards;"
+        ],
+        [
+            "The whitelistingStatus savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay incorporates savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay",
+            "SELECT whitelistingStatus FROM cards;"
+        ],
+        [
+            "The whitelistingStatus savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay  savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay",
+            "SELECT whitelistingStatus FROM cards;"
+        ],
+        [
+            "The whitelistingStatus savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay  savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay",
+            "SELECT whitelistingStatus FROM cards;"
+        ],
+        [
+            "The whitelistingStatus savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay  savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay",
+            "SELECT whitelistingStatus FROM cards;"
+        ],
+        [
+            "The whitelistingStatus savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay  savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay",
+            "SELECT whitelistingStatus FROM cards;"
+        ],
+        [
+            "The whitelistingStatus savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay  savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay",
+            "SELECT whitelistingStatus FROM cards;"
+        ],
+        [
+            "The whitelistingStatus savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay will savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay",
+            "SELECT whitelistingStatus FROM cards;"
+        ],
+        [
+            "The whitelistingStatus savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay savesay",
+            "SELECT whitelistingStatus FROM cards;"
+        ],
+        [
+            "What is the average penny in the cards table?",
+            "SELECT AVG(pennyAmount) FROM cards;"
+        ],
+        [
+            "All images are copyrighted.",
+            "SELECT AVG(pennyAmount) FROM cards;"
+        ],
+        [
+            "What is the most expensive card in the deck?",
+            "SELECT AVG(pennyAmount) FROM cards;"
+        ],
+        [
+            "What is a penny?",
+            "SELECT AVG(pennyAmount) FROM cards;"
+        ],
+        [
+            "What is the value of a penny?",
+            "SELECT AVG(pennyAmount) FROM cards;"
+        ],
+        [
+            "What is the average penny in a cards table?",
+            "SELECT AVG(pennyAmount) FROM cards;"
+        ],
+        [
+            "What is the most expensive card in the deck of cards?",
+            "SELECT AVG(pennyAmount) FROM cards;"
+        ],
+        [
+            "What is the average penny?",
+            "SELECT AVG(pennyAmount) FROM cards;"
+        ],
+        [
+            "What is the most expensive card in the table?",
+            "SELECT AVG(pennyAmount) FROM cards;"
+        ],
+        [
+            "What is the average value of a penny in the cards table?",
+            "SELECT AVG(pennyAmount) FROM cards;"
+        ],
+        [
+            "What is the average card in the cards table?",
+            "SELECT AVG(pennyAmount) FROM cards;"
+        ],
+        [
+            "What is the average value of a penny?",
+            "SELECT AVG(pennyAmount) FROM cards;"
+        ],
+        [
+            "What is the average cost of a single deck of cards?",
+            "SELECT AVG(pennyAmount) FROM cards;"
+        ],
+        [
+            "How much does it cost to buy a deck of cards?",
+            "SELECT AVG(pennyAmount) FROM cards;"
+        ],
+        [
+            "How much does it cost to play a deck of cards?",
+            "SELECT AVG(pennyAmount) FROM cards;"
+        ],
+        [
+            "In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at some of the most frequently asked questions about the continent.",
+            "SELECT AVG(pennyAmount) FROM cards;"
+        ],
+        [
+            "In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at some of the most frequently asked questions about the continent.",
+            "SELECT AVG(pennyAmount) FROM cards;"
+        ],
+        [
+            "In our series of letters from African journalists, film-maker and columnist Farai Sevenzo looks at some of the most frequently asked questions about the continent.",
+            "SELECT AVG(pennyAmount) FROM cards;"
+        ],
+        [
+            "In our series of letters from African journalists, film-maker and columnist Farai Sevenzo looks at some of the most frequently asked questions from the continent.",
+            "SELECT AVG(pennyAmount) FROM cards;"
+        ],
+        [
+            "In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at some of the most frequently asked questions from the continent.",
+            "SELECT AVG(pennyAmount) FROM cards;"
+        ],
+        [
+            "What is the most expensive card in the deck?",
+            "SELECT AVG(pennyAmountUpdated) FROM cards;"
+        ],
+        [
+            "What is the average penny in the cards table?",
+            "SELECT AVG(pennyAmountUpdated) FROM cards;"
+        ],
+        [
+            "What is the average penny?",
+            "SELECT AVG(pennyAmountUpdated) FROM cards;"
+        ],
+        [
+            "What is the average value of a penny?",
+            "SELECT AVG(pennyAmountUpdated) FROM cards;"
+        ],
+        [
+            "What is the average cost of a single deck of cards?",
+            "SELECT AVG(pennyAmountUpdated) FROM cards;"
+        ],
+        [
+            "What is the average cost of a card in the UK?",
+            "SELECT AVG(pennyAmountUpdated) FROM cards;"
+        ],
+        [
+            "What is the average value of a single penny?",
+            "SELECT AVG(pennyAmountUpdated) FROM cards;"
+        ],
+        [
+            "What is the average cost of a pack of 10 cards?",
+            "SELECT AVG(pennyAmountUpdated) FROM cards;"
+        ],
+        [
+            "How much does it cost to buy a single deck of cards?",
+            "SELECT AVG(pennyAmountUpdated) FROM cards;"
+        ],
+        [
+            "What is the average cost of a single deck of cards in the UK?",
+            "SELECT AVG(pennyAmountUpdated) FROM cards;"
+        ],
+        [
+            "What is the average cost of a pack of cigarettes in the UK?",
+            "SELECT AVG(pennyAmountUpdated) FROM cards;"
+        ],
+        [
+            "What is the average cost of a pack of cards in the UK?",
+            "SELECT AVG(pennyAmountUpdated) FROM cards;"
+        ],
+        [
+            "What is the average cost of a pack of cards?",
+            "SELECT AVG(pennyAmountUpdated) FROM cards;"
+        ],
+        [
+            "What is the average amount of money you earn in a year?",
+            "SELECT AVG(pennyAmountUpdated) FROM cards;"
+        ],
+        [
+            "How much does it cost to buy a pack of 10 cards?",
+            "SELECT AVG(pennyAmountUpdated) FROM cards;"
+        ],
+        [
+            "What is the average amount of money you make in a year?",
+            "SELECT AVG(pennyAmountUpdated) FROM cards;"
+        ],
+        [
+            "What is the average price of a pack of 10 cards?",
+            "SELECT AVG(pennyAmountUpdated) FROM cards;"
+        ],
+        [
+            "What is the average cost of a pack of 10 cards in the UK?",
+            "SELECT AVG(pennyAmountUpdated) FROM cards;"
+        ],
+        [
+            "What is the average cost of a pack of five cards?",
+            "SELECT AVG(pennyAmountUpdated) FROM cards;"
+        ],
+        [
+            "What is the average amount of money spent on cards in the UK?",
+            "SELECT AVG(pennyAmountUpdated) FROM cards;"
+        ],
+        [
+            "What are the accountNumber values in the cards table?",
+            "SELECT accountNumber FROM cards;"
+        ],
+        [
+            "What are the values in the cards table?",
+            "SELECT accountNumber FROM cards;"
+        ],
+        [
+            "paraphrase: What is the accountNumber value in the cards table?",
+            "SELECT accountNumber FROM cards;"
+        ],
+        [
+            "What are the values of the accountNumber values in the cards table?",
+            "SELECT accountNumber FROM cards;"
+        ],
+        [
+            "What are the accountNumber values for the cards table?",
+            "SELECT accountNumber FROM cards;"
+        ],
+        [
+            "What are the values for all the accounts in the cards table?",
+            "SELECT accountNumber FROM cards;"
+        ],
+        [
+            "What are the values of the accounts in the cards table?",
+            "SELECT accountNumber FROM cards;"
+        ],
+        [
+            "What are the values of the cards in the table?",
+            "SELECT accountNumber FROM cards;"
+        ],
+        [
+            "What is the total value of all the cards in the table?",
+            "SELECT accountNumber FROM cards;"
+        ],
+        [
+            "What are the accountNumber values in the card table?",
+            "SELECT accountNumber FROM cards;"
+        ],
+        [
+            "What are the values in the table for the accountNumber values in the cards table?",
+            "SELECT accountNumber FROM cards;"
+        ],
+        [
+            "Can you help?",
+            "SELECT accountNumber FROM cards;"
+        ],
+        [
+            "What are the values in the table?",
+            "SELECT accountNumber FROM cards;"
+        ],
+        [
+            "What are the values in the cards table for the following accounts?",
+            "SELECT accountNumber FROM cards;"
+        ],
+        [
+            "What are the values of the accounts in the table?",
+            "SELECT accountNumber FROM cards;"
+        ],
+        [
+            "What are the values in the table for the accountNumber values?",
+            "SELECT accountNumber FROM cards;"
+        ],
+        [
+            "What are the accountNumber values in the table?",
+            "SELECT accountNumber FROM cards;"
+        ],
+        [
+            "What are the values in the cards table for the accountNumber values?",
+            "SELECT accountNumber FROM cards;"
+        ],
+        [
+            "Can you tell me?",
+            "SELECT accountNumber FROM cards;"
+        ],
+        [
+            "What is the total value of all the accounts in the accountNumber table?",
+            "SELECT accountNumber FROM cards;"
+        ],
+        [
+            "The table below shows the values of all the upiId values in the cards table.",
+            "SELECT upiId FROM cards;"
+        ],
+        [
+            "What are the values of the upiIds in the cards table?",
+            "SELECT upiId FROM cards;"
+        ],
+        [
+            "What is the upiId value in the cards table?",
+            "SELECT upiId FROM cards;"
+        ],
+        [
+            "What are the values of the upiId values in the cards table?",
+            "SELECT upiId FROM cards;"
+        ],
+        [
+            "The table below shows the values of all the upiIds in the cards table.",
+            "SELECT upiId FROM cards;"
+        ],
+        [
+            "What is the value of the upiId in the cards table?",
+            "SELECT upiId FROM cards;"
+        ],
+        [
+            "Hi, I have a question about the upiId values in the cards table.",
+            "SELECT upiId FROM cards;"
+        ],
+        [
+            "The table below shows the values for all the upiId values in the cards table.",
+            "SELECT upiId FROM cards;"
+        ],
+        [
+            "What are the values of the upiIds in the table?",
+            "SELECT upiId FROM cards;"
+        ],
+        [
+            "The table below shows the upiId values for each card in the deck.",
+            "SELECT upiId FROM cards;"
+        ],
+        [
+            "The table below shows the values of the upiId values in the cards table.",
+            "SELECT upiId FROM cards;"
+        ],
+        [
+            "The table below shows the upiId values for all the cards in the table.",
+            "SELECT upiId FROM cards;"
+        ],
+        [
+            "The table below shows the values of the upiIds in the cards table.",
+            "SELECT upiId FROM cards;"
+        ],
+        [
+            "What are the values of the upiIds?",
+            "SELECT upiId FROM cards;"
+        ],
+        [
+            "The table below shows the values for all the upiIds in the cards table.",
+            "SELECT upiId FROM cards;"
+        ],
+        [
+            "The table below shows the upiId values in the cards table.",
+            "SELECT upiId FROM cards;"
+        ],
+        [
+            "What is the value of the upiId?",
+            "SELECT upiId FROM cards;"
+        ],
+        [
+            "The table below shows the upiId values for all the cards in the deck.",
+            "SELECT upiId FROM cards;"
+        ],
+        [
+            "The table below shows the values of all the upiId values in the card table.",
+            "SELECT upiId FROM cards;"
+        ],
+        [
+            "The table below lists the values of the upiIds in the cards table.",
+            "SELECT upiId FROM cards;"
+        ],
+        [
+            "paraphrase: What is the statusChangeReason value in the cards table?",
+            "SELECT statusChangeReason FROM cards;"
+        ],
+        [
+            "paraphrase: What are the statusChangeReason values in the cards table?",
+            "SELECT statusChangeReason FROM cards;"
+        ],
+        [
+            "What are the statusChangeReason values in the cards table?",
+            "SELECT statusChangeReason FROM cards;"
+        ],
+        [
+            "What is the statusChangeReason value in the cards table?",
+            "SELECT statusChangeReason FROM cards;"
+        ],
+        [
+            "paraphrase: What are the status changeReason values in the cards table?",
+            "SELECT statusChangeReason FROM cards;"
+        ],
+        [
+            "paraphrase: What is the status changeReason value in the cards table?",
+            "SELECT statusChangeReason FROM cards;"
+        ],
+        [
+            "paraphrase: What is the status ChangeReason value in the cards table?",
+            "SELECT statusChangeReason FROM cards;"
+        ],
+        [
+            "paraphrase: What is the statusChangeReason values in the cards table?",
+            "SELECT statusChangeReason FROM cards;"
+        ],
+        [
+            "paraphrase: What is the statusChangeReason value in the table?",
+            "SELECT statusChangeReason FROM cards;"
+        ],
+        [
+            "paraphrase: What is the statusChangeReason value in the card table?",
+            "SELECT statusChangeReason FROM cards;"
+        ],
+        [
+            "What is the statusChangeReason value in the table?",
+            "SELECT statusChangeReason FROM cards;"
+        ],
+        [
+            "paraphrase: What is the statusChangeReason value for the cards table?",
+            "SELECT statusChangeReason FROM cards;"
+        ],
+        [
+            "paraphrase: What is the statusChangeReason value in the Cards table?",
+            "SELECT statusChangeReason FROM cards;"
+        ],
+        [
+            "paraphrase: What are the statusChangeReason values in the Cards table?",
+            "SELECT statusChangeReason FROM cards;"
+        ],
+        [
+            "What is the status changeReason value in the cards table?",
+            "SELECT statusChangeReason FROM cards;"
+        ],
+        [
+            "paraphrase: What are the statusChangeReason values in the card table?",
+            "SELECT statusChangeReason FROM cards;"
+        ],
+        [
+            "What are the statusChangeReason values in the table?",
+            "SELECT statusChangeReason FROM cards;"
+        ],
+        [
+            "What is the statusChangeReason value in the card table?",
+            "SELECT statusChangeReason FROM cards;"
+        ],
+        [
+            "paraphrase: What are the statusChangeReason values in the table?",
+            "SELECT statusChangeReason FROM cards;"
+        ],
+        [
+            "paraphrase: What is the statusChangeReason value?",
+            "SELECT statusChangeReason FROM cards;"
+        ],
+        [
+            "What are the mobile values in the cards table?",
+            "SELECT mobile FROM cards;"
+        ],
+        [
+            "All images are copyrighted.",
+            "SELECT mobile FROM cards;"
+        ],
+        [
+            "paraphrase: What is the mobile value in the cards table?",
+            "SELECT mobile FROM cards;"
+        ],
+        [
+            "What is the mobile value of a card?",
+            "SELECT mobile FROM cards;"
+        ],
+        [
+            "The table below shows the values of all the mobile values in the cards table.",
+            "SELECT mobile FROM cards;"
+        ],
+        [
+            "The table below shows the values of all the cards in the deck.",
+            "SELECT mobile FROM cards;"
+        ],
+        [
+            "Can you tell me?",
+            "SELECT mobile FROM cards;"
+        ],
+        [
+            "What is the mobile value of the card?",
+            "SELECT mobile FROM cards;"
+        ],
+        [
+            "The table below shows the mobile values in the cards table.",
+            "SELECT mobile FROM cards;"
+        ],
+        [
+            "paraphrase: What is the mobile value of the cards table?",
+            "SELECT mobile FROM cards;"
+        ],
+        [
+            "The table below shows the value of all the cards in the deck.",
+            "SELECT mobile FROM cards;"
+        ],
+        [
+            "The table below shows the values of all the cards in the deck of cards.",
+            "SELECT mobile FROM cards;"
+        ],
+        [
+            "The table shows the values of all the cards in the deck.",
+            "SELECT mobile FROM cards;"
+        ],
+        [
+            "paraphrase: What is the mobile value of a card?",
+            "SELECT mobile FROM cards;"
+        ],
+        [
+            "The table below shows the values of all the cards in the table.",
+            "SELECT mobile FROM cards;"
+        ],
+        [
+            "The table below shows the values for all the cards in the deck.",
+            "SELECT mobile FROM cards;"
+        ],
+        [
+            "The table below lists the values of all the cards in the deck.",
+            "SELECT mobile FROM cards;"
+        ],
+        [
+            "The table below shows the mobile values of the cards in the table.",
+            "SELECT mobile FROM cards;"
+        ],
+        [
+            "paraphrase: What is the mobile value of the card?",
+            "SELECT mobile FROM cards;"
+        ],
+        [
+            "The table below shows the values of all the cards in a deck.",
+            "SELECT mobile FROM cards;"
+        ],
+        [
+            "All photographs are copyrighted.",
+            "SELECT * FROM cards WHERE isHidden=1;"
+        ],
+        [
+            "How many cards do you have in a deck of cards?",
+            "SELECT * FROM cards WHERE isHidden=1;"
+        ],
+        [
+            "What is the difference between a record and a card?",
+            "SELECT * FROM cards WHERE isHidden=1;"
+        ],
+        [
+            "What is the number 1 on the back of a deck of cards?",
+            "SELECT * FROM cards WHERE isHidden=1;"
+        ],
+        [
+            "What is the number 1 on a deck of cards?",
+            "SELECT * FROM cards WHERE isHidden=1;"
+        ],
+        [
+            "How many cards do you have in your deck of cards?",
+            "SELECT * FROM cards WHERE isHidden=1;"
+        ],
+        [
+            "How many cards do you own in a deck of cards?",
+            "SELECT * FROM cards WHERE isHidden=1;"
+        ],
+        [
+            "How many cards do you have in your deck?",
+            "SELECT * FROM cards WHERE isHidden=1;"
+        ],
+        [
+            "How many cards do you own?",
+            "SELECT * FROM cards WHERE isHidden=1;"
+        ],
+        [
+            "What is the number 1 on the front of a deck of cards?",
+            "SELECT * FROM cards WHERE isHidden=1;"
+        ],
+        [
+            "All photographs  Getty Images",
+            "SELECT * FROM cards WHERE isHidden=1;"
+        ],
+        [
+            "What is the maximum number of cards you can have in a deck of cards?",
+            "SELECT * FROM cards WHERE isHidden=1;"
+        ],
+        [
+            "How many cards do you have in your collection?",
+            "SELECT * FROM cards WHERE isHidden=1;"
+        ],
+        [
+            "What is the number 1 on the back of a card?",
+            "SELECT * FROM cards WHERE isHidden=1;"
+        ],
+        [
+            "All photographs  Getty Images.",
+            "SELECT * FROM cards WHERE isHidden=1;"
+        ],
+        [
+            "How many cards do you have in a deck?",
+            "SELECT * FROM cards WHERE isHidden=1;"
+        ],
+        [
+            "In our series of letters from African journalists, film-maker and columnist Farai Sevenzo looks at some of the most frequently asked questions about the continent.",
+            "SELECT * FROM cards WHERE isHidden=1;"
+        ],
+        [
+            "In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at some of the most frequently asked questions about the continent.",
+            "SELECT * FROM cards WHERE isHidden=1;"
+        ],
+        [
+            "In our series of letters from African journalists, film-maker and columnist Farai Sevenzo looks at some of the most frequently asked questions.",
+            "SELECT * FROM cards WHERE isHidden=1;"
+        ],
+        [
+            "In our series of letters from African journalists, film-maker and columnist Farai Sevenzo looks at some of the most frequently asked questions from the continent.",
+            "SELECT * FROM cards WHERE isHidden=1;"
+        ],
+        [
+            "All photographs are copyrighted.",
+            "SELECT * FROM cards WHERE isDisabled=1;"
+        ],
+        [
+            "What is the maximum number of characters on a card?",
+            "SELECT * FROM cards WHERE isDisabled=1;"
+        ],
+        [
+            "How many cards do you own?",
+            "SELECT * FROM cards WHERE isDisabled=1;"
+        ],
+        [
+            "What is the number 1 on a card?",
+            "SELECT * FROM cards WHERE isDisabled=1;"
+        ],
+        [
+            "What is the maximum number of characters in a card?",
+            "SELECT * FROM cards WHERE isDisabled=1;"
+        ],
+        [
+            "What is the maximum number of records on a card?",
+            "SELECT * FROM cards WHERE isDisabled=1;"
+        ],
+        [
+            "What is the maximum number of records that can be held on a card?",
+            "SELECT * FROM cards WHERE isDisabled=1;"
+        ],
+        [
+            "What is the maximum number of records that can be stored on a card?",
+            "SELECT * FROM cards WHERE isDisabled=1;"
+        ],
+        [
+            "What is the maximum number of records that can be kept on a card?",
+            "SELECT * FROM cards WHERE isDisabled=1;"
+        ],
+        [
+            "In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at some of the most frequently asked questions about the continent.",
+            "SELECT * FROM cards WHERE isDisabled=1;"
+        ],
+        [
+            "In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at some of the most frequently asked questions from the continent.",
+            "SELECT * FROM cards WHERE isDisabled=1;"
+        ],
+        [
+            "In our series of letters from African journalists, novelist and writer Colm Tibn asks a simple question.",
+            "SELECT * FROM cards WHERE isDisabled=1;"
+        ],
+        [
+            "What is the maximum number of records that can be held in a card?",
+            "SELECT * FROM cards WHERE isDisabled=1;"
+        ],
+        [
+            "In our series of letters from African journalists, film-maker and columnist Farai Sevenzo looks at some of the most frequently asked questions from the continent.",
+            "SELECT * FROM cards WHERE isDisabled=1;"
+        ],
+        [
+            "In our series of letters from African journalists, film-maker and columnist Farai Sevenzo looks at some of the most frequently asked questions about the continent.",
+            "SELECT * FROM cards WHERE isDisabled=1;"
+        ],
+        [
+            "In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at some of the most frequently asked questions.",
+            "SELECT * FROM cards WHERE isDisabled=1;"
+        ],
+        [
+            "In our series of letters from African journalists, filmmaker and columnist Ahmed Rashid looks at some of the most frequently asked questions about the continent.",
+            "SELECT * FROM cards WHERE isDisabled=1;"
+        ],
+        [
+            "In our series of letters from African journalists, film-maker and columnist Farai Sevenzo looks at some of the most frequently asked questions.",
+            "SELECT * FROM cards WHERE isDisabled=1;"
+        ],
+        [
+            "In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at some of the most frequently asked questions about the continent.",
+            "SELECT * FROM cards WHERE isDisabled=1;"
+        ],
+        [
+            "In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at some of the most frequently asked questions.",
+            "SELECT * FROM cards WHERE isDisabled=1;"
+        ],
+        [
+            "All photographs are copyrighted.",
+            "SELECT * FROM cards WHERE tokenised=1;"
+        ],
+        [
+            "All photographs  Getty Images",
+            "SELECT * FROM cards WHERE tokenised=1;"
+        ],
+        [
+            "What is the maximum number of characters on a card?",
+            "SELECT * FROM cards WHERE tokenised=1;"
+        ],
+        [
+            "All photographs  Getty Images.",
+            "SELECT * FROM cards WHERE tokenised=1;"
+        ],
+        [
+            "What is the maximum number of characters in a card?",
+            "SELECT * FROM cards WHERE tokenised=1;"
+        ],
+        [
+            "What is the value of a record on a card?",
+            "SELECT * FROM cards WHERE tokenised=1;"
+        ],
+        [
+            "What is the value of a card?",
+            "SELECT * FROM cards WHERE tokenised=1;"
+        ],
+        [
+            "How much do you remember about your child's birth certificate?",
+            "SELECT * FROM cards WHERE tokenised=1;"
+        ],
+        [
+            "In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at some of the most frequently asked questions about the continent.",
+            "SELECT * FROM cards WHERE tokenised=1;"
+        ],
+        [
+            "In our series of letters from African journalists, film-maker and columnist Farai Sevenzo looks at some of the most frequently asked questions about the continent.",
+            "SELECT * FROM cards WHERE tokenised=1;"
+        ],
+        [
+            "What is the number 1 on the back of a card?",
+            "SELECT * FROM cards WHERE tokenised=1;"
+        ],
+        [
+            "In our series of letters from African journalists, film-maker and columnist Farai Sevenzo looks at some of the most frequently asked questions from the continent.",
+            "SELECT * FROM cards WHERE tokenised=1;"
+        ],
+        [
+            "How much do you remember about your child's school records?",
+            "SELECT * FROM cards WHERE tokenised=1;"
+        ],
+        [
+            "In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at some of the most frequently asked questions from the continent.",
+            "SELECT * FROM cards WHERE tokenised=1;"
+        ],
+        [
+            "In our series of letters from African journalists, film-maker and columnist Farai Sevenzo answers some of the most frequently asked questions.",
+            "SELECT * FROM cards WHERE tokenised=1;"
+        ],
+        [
+            "In our series of letters from African journalists, film-maker and columnist Farai Sevenzo looks at some of the most frequently asked questions.",
+            "SELECT * FROM cards WHERE tokenised=1;"
+        ],
+        [
+            "In our series of letters from African journalists, film-maker and columnist Farai Sevenzo answers some of the most frequently asked questions about the continent.",
+            "SELECT * FROM cards WHERE tokenised=1;"
+        ],
+        [
+            "In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at some of the most frequently asked questions.",
+            "SELECT * FROM cards WHERE tokenised=1;"
+        ],
+        [
+            "In our series of letters from African journalists, film-maker and columnist Farai Sevenzo looks at some of the most frequently asked questions from the region.",
+            "SELECT * FROM cards WHERE tokenised=1;"
+        ],
+        [
+            "In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at some of the most frequently asked questions from the region.",
+            "SELECT * FROM cards WHERE tokenised=1;"
+        ],
+        [
+            "What is the difference between a bank account and a credit or debit card?",
+            "SELECT * FROM cards WHERE transaction=1;"
+        ],
+        [
+            "How much do you know about plastic cards?",
+            "SELECT * FROM cards WHERE transaction=1;"
+        ],
+        [
+            "What is the limit on the number of times a card can be used in a single transaction?",
+            "SELECT * FROM cards WHERE transaction=1;"
+        ],
+        [
+            "What is the difference between a bank statement and a credit card statement?",
+            "SELECT * FROM cards WHERE transaction=1;"
+        ],
+        [
+            "What is the difference between a bank statement and a credit or debit card?",
+            "SELECT * FROM cards WHERE transaction=1;"
+        ],
+        [
+            "What is the limit on the number of times a card can be used?",
+            "SELECT * FROM cards WHERE transaction=1;"
+        ],
+        [
+            "What is the difference between a bank statement and a credit or debit card statement?",
+            "SELECT * FROM cards WHERE transaction=1;"
+        ],
+        [
+            "What is the maximum limit on the number of times a card can be used in a single transaction?",
+            "SELECT * FROM cards WHERE transaction=1;"
+        ],
+        [
+            "What is the difference between a bank account and a credit card?",
+            "SELECT * FROM cards WHERE transaction=1;"
+        ],
+        [
+            "What is the limit on the number of times a card can be used in one transaction?",
+            "SELECT * FROM cards WHERE transaction=1;"
+        ],
+        [
+            "What is the maximum number of transactions that can be made on a single card?",
+            "SELECT * FROM cards WHERE transaction=1;"
+        ],
+        [
+            "What is the limit on the number of transactions that can be made on a single card?",
+            "SELECT * FROM cards WHERE transaction=1;"
+        ],
+        [
+            "What is the limit on the number of times a card can be used in a single day?",
+            "SELECT * FROM cards WHERE transaction=1;"
+        ],
+        [
+            "What is the maximum limit on the number of transactions that can be made on a single card?",
+            "SELECT * FROM cards WHERE transaction=1;"
+        ],
+        [
+            "What is the maximum limit on the number of times a card can be used?",
+            "SELECT * FROM cards WHERE transaction=1;"
+        ],
+        [
+            "What is the maximum limit on the number of times a card can be used in one transaction?",
+            "SELECT * FROM cards WHERE transaction=1;"
+        ],
+        [
+            "What is the maximum limit on the number of times a card can be used in a single day?",
+            "SELECT * FROM cards WHERE transaction=1;"
+        ],
+        [
+            "What is the limit on the number of transactions that can be made in a single day?",
+            "SELECT * FROM cards WHERE transaction=1;"
+        ],
+        [
+            "In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at some of the most frequently asked questions from the continent.",
+            "SELECT * FROM cards WHERE transaction=1;"
+        ],
+        [
+            "In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at some of the most frequently asked questions about the continent.",
+            "SELECT * FROM cards WHERE transaction=1;"
+        ],
+        [
+            "What are the transactionId values in the cards table?",
+            "SELECT transactionId FROM cards;"
+        ],
+        [
+            "What are the transactionId values for the cards table?",
+            "SELECT transactionId FROM cards;"
+        ],
+        [
+            "What is the value of the transactionId in the cards table?",
+            "SELECT transactionId FROM cards;"
+        ],
+        [
+            "What is the transactionId value in the cards table?",
+            "SELECT transactionId FROM cards;"
+        ],
+        [
+            "What is the transactionId value for the cards table?",
+            "SELECT transactionId FROM cards;"
+        ],
+        [
+            "What is the value of transactionId in the cards table?",
+            "SELECT transactionId FROM cards;"
+        ],
+        [
+            "What is the value of a transactionId in the cards table?",
+            "SELECT transactionId FROM cards;"
+        ],
+        [
+            "What is the value of the transactionId in the card table?",
+            "SELECT transactionId FROM cards;"
+        ],
+        [
+            "What are the transactionId values for the cards table in the table?",
+            "SELECT transactionId FROM cards;"
+        ],
+        [
+            "What is the transactionId value of a card?",
+            "SELECT transactionId FROM cards;"
+        ],
+        [
+            "What is the value of the transactionId in the table?",
+            "SELECT transactionId FROM cards;"
+        ],
+        [
+            "What is the transactionId for the cards table?",
+            "SELECT transactionId FROM cards;"
+        ],
+        [
+            "The table below shows the transactionId values for the cards in the table.",
+            "SELECT transactionId FROM cards;"
+        ],
+        [
+            "What is the value of the transactionId?",
+            "SELECT transactionId FROM cards;"
+        ],
+        [
+            "What is the transactionId value?",
+            "SELECT transactionId FROM cards;"
+        ],
+        [
+            "What is the transactionId value of the card?",
+            "SELECT transactionId FROM cards;"
+        ],
+        [
+            "What is the value of the transactionId on the card?",
+            "SELECT transactionId FROM cards;"
+        ],
+        [
+            "What is the value of the transactionId in the transaction table?",
+            "SELECT transactionId FROM cards;"
+        ],
+        [
+            "What are the transactionId values for the cards table in the cards table?",
+            "SELECT transactionId FROM cards;"
+        ],
+        [
+            "The table below shows the transactionId values for the cards in the cards table.",
+            "SELECT transactionId FROM cards;"
+        ],
+        [
+            "paraphrase: What are the approvedMode values in the cards table?",
+            "SELECT approvedMode FROM cards;"
+        ],
+        [
+            "paraphrase: What is the approvedMode value in the cards table?",
+            "SELECT approvedMode FROM cards;"
+        ],
+        [
+            "What are the approvedMode values in the cards table?",
+            "SELECT approvedMode FROM cards;"
+        ],
+        [
+            "paraphrase: What is the approvedMode value for the cards table?",
+            "SELECT approvedMode FROM cards;"
+        ],
+        [
+            "paraphrase: What are the approvedMode values for the cards table?",
+            "SELECT approvedMode FROM cards;"
+        ],
+        [
+            "What are the approvedMode values for the cards table?",
+            "SELECT approvedMode FROM cards;"
+        ],
+        [
+            "The table below shows the approvedMode values for each card in the deck.",
+            "SELECT approvedMode FROM cards;"
+        ],
+        [
+            "The table below shows the values of approvedMode in the cards table.",
+            "SELECT approvedMode FROM cards;"
+        ],
+        [
+            "The table below shows all the values for approvedMode in the cards table.",
+            "SELECT approvedMode FROM cards;"
+        ],
+        [
+            "The table below shows the approvedMode values for the cards in the table.",
+            "SELECT approvedMode FROM cards;"
+        ],
+        [
+            "The table below shows the values of the approvedMode values in the cards table.",
+            "SELECT approvedMode FROM cards;"
+        ],
+        [
+            "The table below shows all the approvedMode values for the cards in the table.",
+            "SELECT approvedMode FROM cards;"
+        ],
+        [
+            "paraphrase: What is the approvedMode value for a card?",
+            "SELECT approvedMode FROM cards;"
+        ],
+        [
+            "The table below shows the approvedMode values for all the cards in the deck.",
+            "SELECT approvedMode FROM cards;"
+        ],
+        [
+            "The table below lists all the approvedMode values for the cards in the table.",
+            "SELECT approvedMode FROM cards;"
+        ],
+        [
+            "The table below shows the values of the approvedMode values for each card in the deck.",
+            "SELECT approvedMode FROM cards;"
+        ],
+        [
+            "paraphrase: What is the approvedMode value for the card table?",
+            "SELECT approvedMode FROM cards;"
+        ],
+        [
+            "The table below shows the approvedMode values for all the cards in the table.",
+            "SELECT approvedMode FROM cards;"
+        ],
+        [
+            "The table below shows the approvedMode values for each card in the deck of cards.",
+            "SELECT approvedMode FROM cards;"
+        ],
+        [
+            "The table below shows the approvedMode values for each card.",
+            "SELECT approvedMode FROM cards;"
+        ],
+        [
+            "The table below shows the values of all the createdAt values in the cards table.",
+            "SELECT createdAt FROM cards;"
+        ],
+        [
+            "What are the values in the cards table?",
+            "SELECT createdAt FROM cards;"
+        ],
+        [
+            "What are the values in the table?",
+            "SELECT createdAt FROM cards;"
+        ],
+        [
+            "What is the value of the cards table?",
+            "SELECT createdAt FROM cards;"
+        ],
+        [
+            "The table below shows the values of the createdAt values in the cards table.",
+            "SELECT createdAt FROM cards;"
+        ],
+        [
+            "What is the createdAt value?",
+            "SELECT createdAt FROM cards;"
+        ],
+        [
+            "The table below shows the value of createdAt in the cards table.",
+            "SELECT createdAt FROM cards;"
+        ],
+        [
+            "The table below shows the createdAt values for each card in the deck.",
+            "SELECT createdAt FROM cards;"
+        ],
+        [
+            "The table below shows the createdAt values for each card in the deck of cards.",
+            "SELECT createdAt FROM cards;"
+        ],
+        [
+            "The table below lists all the values in the cards table.",
+            "SELECT createdAt FROM cards;"
+        ],
+        [
+            "The table below lists the values of the createdAt values in the cards table.",
+            "SELECT createdAt FROM cards;"
+        ],
+        [
+            "The table below shows the values of all the cards in the deck of cards.",
+            "SELECT createdAt FROM cards;"
+        ],
+        [
+            "The table below shows all the values in the cards table.",
+            "SELECT createdAt FROM cards;"
+        ],
+        [
+            "The table below shows the values of all the createdAt values in the card table.",
+            "SELECT createdAt FROM cards;"
+        ],
+        [
+            "The table below shows the values of the cards in the table.",
+            "SELECT createdAt FROM cards;"
+        ],
+        [
+            "The table below shows the values of all the cards in the table.",
+            "SELECT createdAt FROM cards;"
+        ],
+        [
+            "The table below shows the values of all the createdAt values from the cards table.",
+            "SELECT createdAt FROM cards;"
+        ],
+        [
+            "The table below shows the values of all the cards in the deck.",
+            "SELECT createdAt FROM cards;"
+        ],
+        [
+            "The table below shows the values of all the createdAt values in the cards table",
+            "SELECT createdAt FROM cards;"
+        ],
+        [
+            "The table below shows the values of all the createdAt values in the cards table, sorted by the number of cards in the deck.",
+            "SELECT createdAt FROM cards;"
+        ],
+        [
+            "What is the value of a token?",
+            "SELECT * FROM cards WHERE tokenRemoved=1;"
+        ],
+        [
+            "In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at some of the most frequently asked questions about the continent.",
+            "SELECT * FROM cards WHERE tokenRemoved=1;"
+        ],
+        [
+            "In our series of letters from African journalists, filmmaker and columnist Ahmed Rashid looks at some of the most frequently asked questions about the continent.",
+            "SELECT * FROM cards WHERE tokenRemoved=1;"
+        ],
+        [
+            "In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at some of the most frequently asked questions from the continent.",
+            "SELECT * FROM cards WHERE tokenRemoved=1;"
+        ],
+        [
+            "In our series of letters from African journalists, film-maker and columnist Farai Sevenzo looks at some of the most frequently asked questions about the continent.",
+            "SELECT * FROM cards WHERE tokenRemoved=1;"
+        ],
+        [
+            "In our series of letters from African journalists, film-maker and columnist Farai Sevenzo looks at some of the most frequently asked questions from the continent.",
+            "SELECT * FROM cards WHERE tokenRemoved=1;"
+        ],
+        [
+            "In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at some of the most frequently asked questions.",
+            "SELECT * FROM cards WHERE tokenRemoved=1;"
+        ],
+        [
+            "In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at some of the most frequently asked questions about the continent.",
+            "SELECT * FROM cards WHERE tokenRemoved=1;"
+        ],
+        [
+            "In our series of letters from African journalists, film-maker and columnist Farai Sevenzo looks at some of the most frequently asked questions.",
+            "SELECT * FROM cards WHERE tokenRemoved=1;"
+        ],
+        [
+            "In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at some of the most frequently asked questions.",
+            "SELECT * FROM cards WHERE tokenRemoved=1;"
+        ],
+        [
+            "In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at some of the most frequently asked questions from the continent.",
+            "SELECT * FROM cards WHERE tokenRemoved=1;"
+        ],
+        [
+            "In our series of letters from African journalists, novelist and writer Colm Tibn looks at some of the most frequently asked questions about his work.",
+            "SELECT * FROM cards WHERE tokenRemoved=1;"
+        ],
+        [
+            "In our series of letters from African journalists, novelist and writer Colm Tibn looks at some of the most frequently asked questions from the continent.",
+            "SELECT * FROM cards WHERE tokenRemoved=1;"
+        ],
+        [
+            "In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at some of the most frequently asked questions about Africa.",
+            "SELECT * FROM cards WHERE tokenRemoved=1;"
+        ],
+        [
+            ".",
+            "SELECT * FROM cards WHERE tokenRemoved=1;"
+        ],
+        [
+            "In our series of letters from African journalists, novelist and writer Colm Tibn looks at some of the most frequently asked questions.",
+            "SELECT * FROM cards WHERE tokenRemoved=1;"
+        ],
+        [
+            "In our series of letters from African journalists, novelist and writer Colm Tibn looks at some of the most frequently asked questions about the continent.",
+            "SELECT * FROM cards WHERE tokenRemoved=1;"
+        ],
+        [
+            "In our series of letters from African journalists, novelist and writer Colm Tibn looks at some of the most frequently asked questions about Africa.",
+            "SELECT * FROM cards WHERE tokenRemoved=1;"
+        ],
+        [
+            "In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at some of the most frequently asked questions from the region.",
+            "SELECT * FROM cards WHERE tokenRemoved=1;"
+        ],
+        [
+            "In our series of letters from African journalists, film-maker and columnist Farai Sevenzo looks at some of the most frequently asked questions from the region.",
+            "SELECT * FROM cards WHERE tokenRemoved=1;"
+        ],
+        [
+            "All images are copyrighted.",
+            "SELECT attempts FROM cards;"
+        ],
+        [
+            "What are the attempts values in the cards table?",
+            "SELECT attempts FROM cards;"
+        ],
+        [
+            "What is the total number of attempts?",
+            "SELECT attempts FROM cards;"
+        ],
+        [
+            "What are the attempts values for the cards table?",
+            "SELECT attempts FROM cards;"
+        ],
+        [
+            "Hi, I have a question about the attempts table.",
+            "SELECT attempts FROM cards;"
+        ],
+        [
+            "What are the attempts values in the table?",
+            "SELECT attempts FROM cards;"
+        ],
+        [
+            "Can you tell me?",
+            "SELECT attempts FROM cards;"
+        ],
+        [
+            "What is the total value of all the attempts?",
+            "SELECT attempts FROM cards;"
+        ],
+        [
+            "Hi, I have a question about the attempts table in chess.",
+            "SELECT attempts FROM cards;"
+        ],
+        [
+            "Hi, I have a question about the table of attempted cards.",
+            "SELECT attempts FROM cards;"
+        ],
+        [
+            "The table below shows all the attempts made by players on the board at the start of the game.",
+            "SELECT attempts FROM cards;"
+        ],
+        [
+            "The table below shows all the attempts made by players on the board during the course of the game.",
+            "SELECT attempts FROM cards;"
+        ],
+        [
+            "The table below shows all the attempts made by players on the board.",
+            "SELECT attempts FROM cards;"
+        ],
+        [
+            "The table below shows all the attempts made by players on the board during the game.",
+            "SELECT attempts FROM cards;"
+        ],
+        [
+            "The table below shows all the attempts made by players in the board game chess.",
+            "SELECT attempts FROM cards;"
+        ],
+        [
+            "The table below shows all the attempts made by the players on the board.",
+            "SELECT attempts FROM cards;"
+        ],
+        [
+            "The table below shows all the attempts made by the players in the board game chess.",
+            "SELECT attempts FROM cards;"
+        ],
+        [
+            "The table below shows all the attempts made by the players on the board during the game.",
+            "SELECT attempts FROM cards;"
+        ],
+        [
+            "The table below shows the values of all the attempts made by players on the board.",
+            "SELECT attempts FROM cards;"
+        ],
+        [
+            "The table below lists all the attempts made by players on the board during the game.",
+            "SELECT attempts FROM cards;"
+        ],
+        [
+            "What are the updatedAt values in the cards table?",
+            "SELECT updatedAt FROM cards;"
+        ],
+        [
+            "The table below shows the updatedAt values for each card in the deck.",
+            "SELECT updatedAt FROM cards;"
+        ],
+        [
+            "The table below shows all the updatedAt values in the cards table.",
+            "SELECT updatedAt FROM cards;"
+        ],
+        [
+            "The table below shows the updatedAt values for all the cards in the deck.",
+            "SELECT updatedAt FROM cards;"
+        ],
+        [
+            "The table below shows the updated At values for each card in the deck.",
+            "SELECT updatedAt FROM cards;"
+        ],
+        [
+            "The table below shows the updatedAt values for each card in the deck of cards.",
+            "SELECT updatedAt FROM cards;"
+        ],
+        [
+            "The table below lists all the updatedAt values in the cards table.",
+            "SELECT updatedAt FROM cards;"
+        ],
+        [
+            "The table below shows all the updatedAt values for each card in the deck.",
+            "SELECT updatedAt FROM cards;"
+        ],
+        [
+            "The table below shows the updatedAt values for the cards in the table.",
+            "SELECT updatedAt FROM cards;"
+        ],
+        [
+            "The table below shows all the updatedAt values for the cards in the table.",
+            "SELECT updatedAt FROM cards;"
+        ],
+        [
+            "The table below shows the updated At values for each card in the deck of cards.",
+            "SELECT updatedAt FROM cards;"
+        ],
+        [
+            "The table below shows the updatedAt values for all the cards in the deck of cards.",
+            "SELECT updatedAt FROM cards;"
+        ],
+        [
+            "The table below shows the updatedAt values in the cards table.",
+            "SELECT updatedAt FROM cards;"
+        ],
+        [
+            "The table below shows the values of all the At values in the cards table.",
+            "SELECT updatedAt FROM cards;"
+        ],
+        [
+            "The table below shows the updatedAt values for all cards in the deck of cards.",
+            "SELECT updatedAt FROM cards;"
+        ],
+        [
+            "The table below shows all the updatedAt values for each card in the deck of cards.",
+            "SELECT updatedAt FROM cards;"
+        ],
+        [
+            "The table below shows the updatedAt values for all the cards in the deck of jokers.",
+            "SELECT updatedAt FROM cards;"
+        ],
+        [
+            "The table below shows all the updatedAt values in the cards table for the current week.",
+            "SELECT updatedAt FROM cards;"
+        ],
+        [
+            "The table below shows the updated At values for all the cards in the deck of cards.",
+            "SELECT updatedAt FROM cards;"
+        ],
+        [
+            "The table below shows all the updatedAt values in the cards table for the current season.",
+            "SELECT updatedAt FROM cards;"
+        ],
+        [
+            "What is the maximum number of records that can be approved by an administrator?",
+            "SELECT * FROM cards WHERE approvedByAdmin=1;"
+        ],
+        [
+            "What is the maximum number of times a card can be approved by an administrator?",
+            "SELECT * FROM cards WHERE approvedByAdmin=1;"
+        ],
+        [
+            "What is the approvedByAdmin set to be?",
+            "SELECT * FROM cards WHERE approvedByAdmin=1;"
+        ],
+        [
+            "What is the maximum number of times a record can be approved by an administrator?",
+            "SELECT * FROM cards WHERE approvedByAdmin=1;"
+        ],
+        [
+            "What is the maximum number of cards that can be approved by an administrator?",
+            "SELECT * FROM cards WHERE approvedByAdmin=1;"
+        ],
+        [
+            "What is the maximum number of records that can be approved by an administrator at one time?",
+            "SELECT * FROM cards WHERE approvedByAdmin=1;"
+        ],
+        [
+            "What is the maximum number of records that can be approved by an admin at one time?",
+            "SELECT * FROM cards WHERE approvedByAdmin=1;"
+        ],
+        [
+            "What is the maximum number of records that can be approved by an administrator at once?",
+            "SELECT * FROM cards WHERE approvedByAdmin=1;"
+        ],
+        [
+            "What is the maximum number of times a card can be approved?",
+            "SELECT * FROM cards WHERE approvedByAdmin=1;"
+        ],
+        [
+            "What is the maximum number of cards that can be approved by an administrator at one time?",
+            "SELECT * FROM cards WHERE approvedByAdmin=1;"
+        ],
+        [
+            "What is the maximum number of records that can be approved by an admin at once?",
+            "SELECT * FROM cards WHERE approvedByAdmin=1;"
+        ],
+        [
+            "What is the maximum number of times a card can be approved by an admin?",
+            "SELECT * FROM cards WHERE approvedByAdmin=1;"
+        ],
+        [
+            "What is the maximum number of records that can be approved by an admin?",
+            "SELECT * FROM cards WHERE approvedByAdmin=1;"
+        ],
+        [
+            "What is the maximum number of records that an administrator can approve at once?",
+            "SELECT * FROM cards WHERE approvedByAdmin=1;"
+        ],
+        [
+            "What is the maximum number of cards that can be approved by an administrator at once?",
+            "SELECT * FROM cards WHERE approvedByAdmin=1;"
+        ],
+        [
+            "What is the maximum number of cards that can be approved by an admin at one time?",
+            "SELECT * FROM cards WHERE approvedByAdmin=1;"
+        ],
+        [
+            "What is the maximum number of times a record can be approved by an admin?",
+            "SELECT * FROM cards WHERE approvedByAdmin=1;"
+        ],
+        [
+            "What is the limit on the number of records that can be approved by an administrator?",
+            "SELECT * FROM cards WHERE approvedByAdmin=1;"
+        ],
+        [
+            "What is the maximum number of cards that can be approved at once?",
+            "SELECT * FROM cards WHERE approvedByAdmin=1;"
+        ],
+        [
+            "What is the maximum number of times a record can be approved?",
+            "SELECT * FROM cards WHERE approvedByAdmin=1;"
+        ],
+        [
+            "What are the accountNumberUpdated values in the cards table?",
+            "SELECT accountNumberUpdated FROM cards;"
+        ],
+        [
+            "What are the values in the cards table?",
+            "SELECT accountNumberUpdated FROM cards;"
+        ],
+        [
+            "What are the values in the table?",
+            "SELECT accountNumberUpdated FROM cards;"
+        ],
+        [
+            "What is the accountNumberUpdated value in the cards table?",
+            "SELECT accountNumberUpdated FROM cards;"
+        ],
+        [
+            "What are the accountNumberUpdated values in the card table?",
+            "SELECT accountNumberUpdated FROM cards;"
+        ],
+        [
+            "What are the accountNumberUpdated values in the table?",
+            "SELECT accountNumberUpdated FROM cards;"
+        ],
+        [
+            "What are the values in the table below?",
+            "SELECT accountNumberUpdated FROM cards;"
+        ],
+        [
+            "What is the accountNumberUpdated value of the cards in the table?",
+            "SELECT accountNumberUpdated FROM cards;"
+        ],
+        [
+            "What is the total number of cards in the account?",
+            "SELECT accountNumberUpdated FROM cards;"
+        ],
+        [
+            "Can you help?",
+            "SELECT accountNumberUpdated FROM cards;"
+        ],
+        [
+            "The table below shows the accountNumberUpdated values in the cards table.",
+            "SELECT accountNumberUpdated FROM cards;"
+        ],
+        [
+            "What are the values in the table above?",
+            "SELECT accountNumberUpdated FROM cards;"
+        ],
+        [
+            "What is the accountNumberUpdated value in the table?",
+            "SELECT accountNumberUpdated FROM cards;"
+        ],
+        [
+            "What are the accountNumberUpdated values for the cards table?",
+            "SELECT accountNumberUpdated FROM cards;"
+        ],
+        [
+            "What is the total value of all your cards?",
+            "SELECT accountNumberUpdated FROM cards;"
+        ],
+        [
+            "What is the total value of all the cards in the account?",
+            "SELECT accountNumberUpdated FROM cards;"
+        ],
+        [
+            "What is the total value of all your accounts?",
+            "SELECT accountNumberUpdated FROM cards;"
+        ],
+        [
+            "What is the total value of all the accounts in your account?",
+            "SELECT accountNumberUpdated FROM cards;"
+        ],
+        [
+            "What is the total value of all the cards in the table?",
+            "SELECT accountNumberUpdated FROM cards;"
+        ],
+        [
+            "What is the total value of all the accounts in the account number table?",
+            "SELECT accountNumberUpdated FROM cards;"
+        ],
+        [
+            "List all cards that are disabled and have a pennyAmount greater than a specified value.",
+            "SELECT * FROM cards WHERE isDisabled=1 AND pennyAmount > [specified value];"
+        ],
+        [
+            "List all cards that are disabled or have a pennymount greater than a specified value.",
+            "SELECT * FROM cards WHERE isDisabled=1 AND pennyAmount > [specified value];"
+        ],
+        [
+            "List all cards that are disabled and have a pennymount greater than a specified value.",
+            "SELECT * FROM cards WHERE isDisabled=1 AND pennyAmount > [specified value];"
+        ],
+        [
+            "List all cards that are disabled and have a penny Amount greater than a specified value.",
+            "SELECT * FROM cards WHERE isDisabled=1 AND pennyAmount > [specified value];"
+        ],
+        [
+            "List all cards that are disabled and have a penny amount greater than a specified value.",
+            "SELECT * FROM cards WHERE isDisabled=1 AND pennyAmount > [specified value];"
+        ],
+        [
+            "List all cards that have a penny and have a pennymount greater than a specified value.",
+            "SELECT * FROM cards WHERE isDisabled=1 AND pennyAmount > [specified value];"
+        ],
+        [
+            "List all cards that are disabled and have a pennyMOUNT greater than a specified value.",
+            "SELECT * FROM cards WHERE isDisabled=1 AND pennyAmount > [specified value];"
+        ],
+        [
+            "Description: List all cards that are disabled and have a pennyAmount greater than a specified value.",
+            "SELECT * FROM cards WHERE isDisabled=1 AND pennyAmount > [specified value];"
+        ],
+        [
+            "The following table lists all cards that are disabled and have a pennymount greater than a specified value.",
+            "SELECT * FROM cards WHERE isDisabled=1 AND pennyAmount > [specified value];"
+        ],
+        [
+            "Description: List all cards that are disabled and have a pennymount greater than a specified value.",
+            "SELECT * FROM cards WHERE isDisabled=1 AND pennyAmount > [specified value];"
+        ],
+        [
+            "List all cards that are disabled and have a penny",
+            "SELECT * FROM cards WHERE isDisabled=1 AND pennyAmount > [specified value];"
+        ],
+        [
+            "Description: List all cards that are disabled or have a pennymount greater than a specified value.",
+            "SELECT * FROM cards WHERE isDisabled=1 AND pennyAmount > [specified value];"
+        ],
+        [
+            "This table lists all cards that are disabled and have a pennymount greater than a specified value.",
+            "SELECT * FROM cards WHERE isDisabled=1 AND pennyAmount > [specified value];"
+        ],
+        [
+            "This table lists all cards that are disabled or have a pennymount greater than a specified value.",
+            "SELECT * FROM cards WHERE isDisabled=1 AND pennyAmount > [specified value];"
+        ],
+        [
+            "The following table lists all cards that are disabled or have a pennymount greater than a specified value.",
+            "SELECT * FROM cards WHERE isDisabled=1 AND pennyAmount > [specified value];"
+        ],
+        [
+            "List all cards that are disabled and have a penny.",
+            "SELECT * FROM cards WHERE isDisabled=1 AND pennyAmount > [specified value];"
+        ],
+        [
+            "List all cards that are disabled and have a Pennymount greater than a specified value.",
+            "SELECT * FROM cards WHERE isDisabled=1 AND pennyAmount > [specified value];"
+        ],
+        [
+            "List all cards that are disabled and have a penny of a specified value.",
+            "SELECT * FROM cards WHERE isDisabled=1 AND pennyAmount > [specified value];"
+        ],
+        [
+            "The following table lists all the cards that are disabled and have a pennymount greater than a specified value.",
+            "SELECT * FROM cards WHERE isDisabled=1 AND pennyAmount > [specified value];"
+        ],
+        [
+            "Description: List all cards that are disabled and have a pennyMOUNT greater than a specified value.",
+            "SELECT * FROM cards WHERE isDisabled=1 AND pennyAmount > [specified value];"
+        ]
+    ]
+}
